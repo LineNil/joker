@@ -1,0 +1,27 @@
+{
+  "name": "linenil-joker",
+  "version": "0.0.5",
+  "description": "example",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LineNil/joker.git"
+  },
+  "author": "Line Nilsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LineNil/joker/issues"
+  },
+  "homepage": "https://github.com/LineNil/joker#readme",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}

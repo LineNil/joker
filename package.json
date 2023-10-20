@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LineNil/joker/issues"
   },
-  "homepage": "https://github.com/LineNil/joker#readme"
+  "homepage": "https://github.com/LineNil/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
